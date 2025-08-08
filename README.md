@@ -1,4 +1,4 @@
-# opensurgbot_pipeline
+# opensurgbot
 
 [opensurgbot](https://github.com/lgabp1/opensurgbot) root repository.
 
