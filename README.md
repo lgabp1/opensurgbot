@@ -22,7 +22,7 @@ The first prototype has been successfully built and tested.
 
 ## Installation and usage
 
-- Please refer to [opensurgbot_pipeline/tree/main/STM32CubeIDE_projects](https://github.com/lgabp1/opensurgbot_pipeline/STM32CubeIDE_projects) (based on [DM-MC02_drivers](https://github.com/lgabp1/DM-MC02_drivers) and [ZDT stm32 driver](github.com/lgabp1/zdt_stm32_driver)) to setup the STM32 microcontroller.
+- Please refer to [opensurgbot_pipeline/STM32CubeIDE_projects](https://github.com/lgabp1/opensurgbot_pipeline/tree/main/STM32CubeIDE_projects) (based on [DM-MC02_drivers](https://github.com/lgabp1/DM-MC02_drivers) and [ZDT stm32 driver](github.com/lgabp1/zdt_stm32_driver)) to setup the STM32 microcontroller.
 - Please refer to [(no link yet)]() and [(no link yet)]() for the hardware setup. The optional [opensurgbot_board](https://github.com/lgabp1/opensurgbot_board/) can be used to simplify the wiring.
 
 As for the software,
