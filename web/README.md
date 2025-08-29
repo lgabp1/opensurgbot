@@ -19,4 +19,4 @@ git checkout --orphan gh-pages
 git --work-tree ./web/ add --all
 git --work-tree ./web/ commit -m "gh-pages"
 git push origin HEAD:gh-pages --force
-git checkout master
+git checkout -f master
