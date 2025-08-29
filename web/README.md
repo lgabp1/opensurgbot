@@ -4,7 +4,7 @@ GitHub pages for opensurgbot.
 
 ## Deploy
 
-Before deploying, ensure all changes have been committed to the `main` branch.
+Before deploying, ensure all changes have been committed to the `main` branch. Then perform the following actions:
 
 1. Delete the `gh-pages` branch (if exists)
 2. Create a new orphan `gh-pages` branch
@@ -13,7 +13,7 @@ Before deploying, ensure all changes have been committed to the `main` branch.
 5. Push changes to the remote repository
 6. Go back to the `master` branch
 
-Run the following commands
+To perform these actions, run the following commands:
 ```bash
 git branch -D gh-pages
 git checkout --orphan gh-pages

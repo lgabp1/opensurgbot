@@ -19,6 +19,7 @@ The first prototype has been successfully built and tested.
 | [opensurgbot_kinevizu](https://github.com/lgabp1/opensurgbot_kinevizu/) | 3D visualization of the da Vinci Large Needle Drive and kinematics model |
 | [opensurgbot_board](https://github.com/lgabp1/opensurgbot_board/) | PCB design files for the opensurgbot custom board |
 | [opensurgbot_3Dprinted](https://github.com/suyu-lily/opensurgbot_3Dprinted) | 3D printed parts of the opensurgbot platform |
+| [opensurgbot/web](https://github.com/lgabp1/opensurgbot/tree/master/web) | GitHub page of the project |
 
 ## Installation and usage
 
